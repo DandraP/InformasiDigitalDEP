@@ -1,4 +1,10 @@
 import React, { useState, useMemo } from "react";
+git init
+git add .
+git commit -m "Initial commit - Sistem Pendataan Desa Wisata Kapal"
+git branch -M main
+git remote add origin https://github.com/USERNAME/desa-wisata-kapal.git
+git push -u origin main
 
 // NOTE: Untuk deployment di GitHub & Vercel:
 // 1. Simpan file gambar header sebagai: public/header.jpg
